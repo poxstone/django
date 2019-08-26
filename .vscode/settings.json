@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "virtualEvn/bin/python3.6",
+    "git.ignoreLimitWarning": true,
+    "editor.rulers": [80,120]
+}
